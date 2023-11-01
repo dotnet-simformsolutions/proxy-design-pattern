@@ -16,24 +16,24 @@
   
   The Proxy Servers can also be used to filter incoming requests. For example, a company might use a Proxy Server to prevent its employees from accessing a specific set of websites such as Facebook, Twitter, etc.
 
-  ![image](https://github.com/jil1710/readmedemo/assets/125335932/59817e65-e410-4574-bd44-af10b468750c)
+  ![image](https://github.com/dotnet-simformsolutions/proxy-design-pattern/blob/master/images/273103816-59817e65-e410-4574-bd44-af10b468750c.png)
 
 ## Let's implement an example of Filtering request and restricts few site access:
 
 - Interface of Internet
   
-  ![image](https://github.com/jil1710/readmedemo/assets/125335932/c75a52eb-e207-4dab-a7d5-6af4789be211)
+  ![image](https://github.com/dotnet-simformsolutions/proxy-design-pattern/blob/master/images/273104056-c75a52eb-e207-4dab-a7d5-6af4789be211.png)
 
 - Real Internet Provider
 
-  ![image](https://github.com/jil1710/readmedemo/assets/125335932/e0e04292-7d36-401b-b58f-f31aa061a368)
+  ![image](https://github.com/dotnet-simformsolutions/proxy-design-pattern/blob/master/images/273104184-e0e04292-7d36-401b-b58f-f31aa061a368.png)
 
 - Proxy Internet Provider that helps to restricts few site access.
 
-  ![image](https://github.com/jil1710/readmedemo/assets/125335932/9625ae27-6db9-4b13-a155-ae37ba2ea93f)
+  ![image](https://github.com/dotnet-simformsolutions/proxy-design-pattern/blob/master/images/273104334-9625ae27-6db9-4b13-a155-ae37ba2ea93f.png)
 
 - Client request for accessing web server all the request is pass through proxy internet provider
 
-  ![image](https://github.com/jil1710/readmedemo/assets/125335932/bd659927-7ac0-4467-a761-0fabd65e4a98)
+  ![image](https://github.com/dotnet-simformsolutions/proxy-design-pattern/blob/master/images/273104553-bd659927-7ac0-4467-a761-0fabd65e4a98.png)
 
-  ![image](https://github.com/jil1710/readmedemo/assets/125335932/2b673883-400a-4551-b1e1-5a677dea20ed)
+  ![image](https://github.com/dotnet-simformsolutions/proxy-design-pattern/blob/master/images/273104785-2b673883-400a-4551-b1e1-5a677dea20ed.png)
